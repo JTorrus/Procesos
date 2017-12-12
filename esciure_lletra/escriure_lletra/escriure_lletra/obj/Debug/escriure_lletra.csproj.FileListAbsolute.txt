@@ -1,0 +1,21 @@
+C:\Users\Roger\Dropbox\La Salle - 14_15\DAM_M9\UF2\Exercicis\scheduler\esciure_lletra\escriure_lletra\escriure_lletra\bin\Debug\escriure_lletra.exe.config
+C:\Users\Roger\Dropbox\La Salle - 14_15\DAM_M9\UF2\Exercicis\scheduler\esciure_lletra\escriure_lletra\escriure_lletra\bin\Debug\escriure_lletra.exe
+C:\Users\Roger\Dropbox\La Salle - 14_15\DAM_M9\UF2\Exercicis\scheduler\esciure_lletra\escriure_lletra\escriure_lletra\bin\Debug\escriure_lletra.pdb
+C:\Users\Roger\Dropbox\La Salle - 14_15\DAM_M9\UF2\Exercicis\scheduler\esciure_lletra\escriure_lletra\escriure_lletra\obj\Debug\escriure_lletra.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - 14_15\DAM_M9\UF2\Exercicis\scheduler\esciure_lletra\escriure_lletra\escriure_lletra\obj\Debug\escriure_lletra.exe
+C:\Users\Roger\Dropbox\La Salle - 14_15\DAM_M9\UF2\Exercicis\scheduler\esciure_lletra\escriure_lletra\escriure_lletra\obj\Debug\escriure_lletra.pdb
+C:\Users\Roger\Dropbox\La Salle - 14_15\DAM_M9\UF2\Exercicis\7. Process - manager consola\esciure_lletra\escriure_lletra\escriure_lletra\bin\Debug\escriure_lletra.exe.config
+C:\Users\Roger\Dropbox\La Salle - 14_15\DAM_M9\UF2\Exercicis\7. Process - manager consola\esciure_lletra\escriure_lletra\escriure_lletra\obj\Debug\escriure_lletra.exe
+C:\Users\Roger\Dropbox\La Salle - 14_15\DAM_M9\UF2\Exercicis\7. Process - manager consola\esciure_lletra\escriure_lletra\escriure_lletra\obj\Debug\escriure_lletra.pdb
+C:\Users\Roger\Dropbox\La Salle - 14_15\DAM_M9\UF2\01_Exercicis i pràctiques\7. Process - manager consola\esciure_lletra\escriure_lletra\escriure_lletra\bin\Debug\escriure_lletra.exe.config
+C:\Users\Roger\Dropbox\La Salle - 14_15\DAM_M9\UF2\01_Exercicis i pràctiques\7. Process - manager consola\esciure_lletra\escriure_lletra\escriure_lletra\obj\Debug\escriure_lletra.exe
+C:\Users\Roger\Dropbox\La Salle - 14_15\DAM_M9\UF2\01_Exercicis i pràctiques\7. Process - manager consola\esciure_lletra\escriure_lletra\escriure_lletra\obj\Debug\escriure_lletra.pdb
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF2\01_Exercicis\Exercici4 - alumne\esciure_lletra\escriure_lletra\escriure_lletra\bin\Debug\escriure_lletra.exe.config
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF2\01_Exercicis\Exercici4 - alumne\esciure_lletra\escriure_lletra\escriure_lletra\bin\Debug\escriure_lletra.exe
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF2\01_Exercicis\Exercici4 - alumne\esciure_lletra\escriure_lletra\escriure_lletra\bin\Debug\escriure_lletra.pdb
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF2\01_Exercicis\Exercici4 - alumne\esciure_lletra\escriure_lletra\escriure_lletra\obj\Debug\escriure_lletra.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF2\01_Exercicis\Exercici4 - alumne\esciure_lletra\escriure_lletra\escriure_lletra\obj\Debug\escriure_lletra.exe
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF2\01_Exercicis\Exercici4 - alumne\esciure_lletra\escriure_lletra\escriure_lletra\obj\Debug\escriure_lletra.pdb
+C:\Users\Alumne\Documents\Visual Studio 2013\Projects\Pr4 - alumne\esciure_lletra\escriure_lletra\escriure_lletra\bin\Debug\escriure_lletra.exe.config
+C:\Users\Alumne\Documents\Visual Studio 2013\Projects\Pr4 - alumne\esciure_lletra\escriure_lletra\escriure_lletra\obj\Debug\escriure_lletra.exe
+C:\Users\Alumne\Documents\Visual Studio 2013\Projects\Pr4 - alumne\esciure_lletra\escriure_lletra\escriure_lletra\obj\Debug\escriure_lletra.pdb

@@ -1,0 +1,21 @@
+C:\Users\Roger\Dropbox\La Salle - 14_15\DAM_M9\UF2\Exercicis\7. Process - manager consola\scheduler_consola\scheduler_consola\bin\Debug\scheduler_consola.exe.config
+C:\Users\Roger\Dropbox\La Salle - 14_15\DAM_M9\UF2\Exercicis\7. Process - manager consola\scheduler_consola\scheduler_consola\bin\Debug\scheduler_consola.exe
+C:\Users\Roger\Dropbox\La Salle - 14_15\DAM_M9\UF2\Exercicis\7. Process - manager consola\scheduler_consola\scheduler_consola\bin\Debug\scheduler_consola.pdb
+C:\Users\Roger\Dropbox\La Salle - 14_15\DAM_M9\UF2\Exercicis\7. Process - manager consola\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - 14_15\DAM_M9\UF2\Exercicis\7. Process - manager consola\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.exe
+C:\Users\Roger\Dropbox\La Salle - 14_15\DAM_M9\UF2\Exercicis\7. Process - manager consola\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.pdb
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF2\01_Exercicis\Exercici4\scheduler_consola\scheduler_consola\bin\Debug\scheduler_consola.exe.config
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF2\01_Exercicis\Exercici4\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.exe
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF2\01_Exercicis\Exercici4\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.pdb
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF2\01_Exercicis\Exercici4\scheduler_consola\scheduler_consola\bin\Debug\scheduler_consola.exe
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF2\01_Exercicis\Exercici4\scheduler_consola\scheduler_consola\bin\Debug\scheduler_consola.pdb
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF2\01_Exercicis\Exercici4\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF2\01_Exercicis\Exercici4 - alumne\scheduler_consola\scheduler_consola\bin\Debug\scheduler_consola.exe.config
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF2\01_Exercicis\Exercici4 - alumne\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.exe
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF2\01_Exercicis\Exercici4 - alumne\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.pdb
+C:\Users\Alumne\Documents\Visual Studio 2013\Projects\Pr4 - alumne\scheduler_consola\scheduler_consola\bin\Debug\scheduler_consola.exe.config
+C:\Users\Alumne\Documents\Visual Studio 2013\Projects\Pr4 - alumne\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.exe
+C:\Users\Alumne\Documents\Visual Studio 2013\Projects\Pr4 - alumne\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.pdb
+C:\Users\Alumne\Documents\Visual Studio 2013\Projects\Pr4 - alumne\scheduler_consola\scheduler_consola\bin\Debug\scheduler_consola.exe
+C:\Users\Alumne\Documents\Visual Studio 2013\Projects\Pr4 - alumne\scheduler_consola\scheduler_consola\bin\Debug\scheduler_consola.pdb
+C:\Users\Alumne\Documents\Visual Studio 2013\Projects\Pr4 - alumne\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.csprojResolveAssemblyReference.cache
