@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\javyc\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_scheduler_consola.-1143136279.00" t="ExcludeRecursive" />
-    <e p="C:\Users\javyc\RiderProjects\Procesos_2\esciure_lletra\escriure_lletra\escriure_lletra" t="IncludeRecursive">
+    <e p="C:\Users\javyc\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_scheduler_consola.-528389146.00" t="ExcludeRecursive" />
+    <e p="C:\Users\javyc\RiderProjects\Procesos - JTorrus\esciure_lletra\escriure_lletra\escriure_lletra" t="IncludeRecursive">
       <e p="App.config" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="escriure_lletra.csproj" t="IncludeRecursive" />
@@ -12,7 +12,7 @@
         <e p="AssemblyInfo.cs" t="Include" />
       </e>
     </e>
-    <e p="C:\Users\javyc\RiderProjects\Procesos_2\scheduler_consola" t="IncludeFlat">
+    <e p="C:\Users\javyc\RiderProjects\Procesos - JTorrus\scheduler_consola" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="scheduler_consola" t="IncludeRecursive">
         <e p="App.config" t="Include" />

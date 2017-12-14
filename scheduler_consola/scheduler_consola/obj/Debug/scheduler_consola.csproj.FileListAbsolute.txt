@@ -26,3 +26,10 @@ C:\Users\javyc\RiderProjects\Procesos_2\scheduler_consola\scheduler_consola\obj\
 C:\Users\javyc\RiderProjects\Procesos_2\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.csproj.CoreCompileInputs.cache
 C:\Users\javyc\RiderProjects\Procesos_2\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.exe
 C:\Users\javyc\RiderProjects\Procesos_2\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.pdb
+C:\Users\javyc\RiderProjects\Procesos - JTorrus\scheduler_consola\scheduler_consola\bin\Debug\scheduler_consola.exe.config
+C:\Users\javyc\RiderProjects\Procesos - JTorrus\scheduler_consola\scheduler_consola\bin\Debug\scheduler_consola.exe
+C:\Users\javyc\RiderProjects\Procesos - JTorrus\scheduler_consola\scheduler_consola\bin\Debug\scheduler_consola.pdb
+C:\Users\javyc\RiderProjects\Procesos - JTorrus\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.csprojResolveAssemblyReference.cache
+C:\Users\javyc\RiderProjects\Procesos - JTorrus\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.csproj.CoreCompileInputs.cache
+C:\Users\javyc\RiderProjects\Procesos - JTorrus\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.exe
+C:\Users\javyc\RiderProjects\Procesos - JTorrus\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.pdb

@@ -49,7 +49,7 @@ namespace scheduler_consola
 
             Process process = new Process();
             // RECORDATORIO: Cambiar ruta
-            process.StartInfo.FileName = @"C:\Users\javyc\RiderProjects\Procesos_2\esciure_lletra\escriure_lletra\escriure_lletra\bin\Debug\escriure_lletra.exe";
+            process.StartInfo.FileName = @"C:\Users\javyc\RiderProjects\Procesos - JTorrus\esciure_lletra\escriure_lletra\escriure_lletra\bin\Debug\escriure_lletra.exe";
             process.StartInfo.Arguments = lletra + " " + Convert.ToString(vegades) + " " + Convert.ToString(retard);
             process.Exited += new EventHandler(process_finalitzat);
             process.EnableRaisingEvents = true;
@@ -70,7 +70,7 @@ namespace scheduler_consola
 
                     if (Semafor.CurrentCount == 0)
                     {
-                        Console.WriteLine("AVÍS: Aquest procès no s'executarà fins que un dels dos actuals acabi.");
+                        Console.WriteLine("AVÍS: Si crees un nou procès en aquest moment, no s'executarà fins que un dels dos actuals acabi.");
                     }
 
                     auxProc.Start();

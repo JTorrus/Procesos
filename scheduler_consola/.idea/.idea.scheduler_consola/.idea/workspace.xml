@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca5eb824-5d80-4ff5-b621-15d5b52ef001" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../esciure_lletra/escriure_lletra/escriure_lletra/bin/Debug/escriure_lletra.exe" afterPath="$PROJECT_DIR$/../esciure_lletra/escriure_lletra/escriure_lletra/bin/Debug/escriure_lletra.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../esciure_lletra/escriure_lletra/escriure_lletra/bin/Debug/escriure_lletra.pdb" afterPath="$PROJECT_DIR$/../esciure_lletra/escriure_lletra/escriure_lletra/bin/Debug/escriure_lletra.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../esciure_lletra/escriure_lletra/escriure_lletra/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="$PROJECT_DIR$/../esciure_lletra/escriure_lletra/escriure_lletra/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../esciure_lletra/escriure_lletra/escriure_lletra/obj/Debug/escriure_lletra.exe" afterPath="$PROJECT_DIR$/../esciure_lletra/escriure_lletra/escriure_lletra/obj/Debug/escriure_lletra.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../esciure_lletra/escriure_lletra/escriure_lletra/obj/Debug/escriure_lletra.pdb" afterPath="$PROJECT_DIR$/../esciure_lletra/escriure_lletra/escriure_lletra/obj/Debug/escriure_lletra.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scheduler_consola/bin/Debug/scheduler_consola.pdb" afterPath="$PROJECT_DIR$/scheduler_consola/bin/Debug/scheduler_consola.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scheduler_consola/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="$PROJECT_DIR$/scheduler_consola/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scheduler_consola/obj/Debug/scheduler_consola.exe" afterPath="$PROJECT_DIR$/scheduler_consola/obj/Debug/scheduler_consola.exe" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scheduler_consola/obj/Debug/scheduler_consola.pdb" afterPath="$PROJECT_DIR$/scheduler_consola/obj/Debug/scheduler_consola.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../esciure_lletra/escriure_lletra/escriure_lletra/obj/Debug/escriure_lletra.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/../esciure_lletra/escriure_lletra/escriure_lletra/obj/Debug/escriure_lletra.csproj.FileListAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.scheduler_consola/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.scheduler_consola/.idea/contentModel.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.scheduler_consola/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/.idea.scheduler_consola/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.scheduler_consola/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.scheduler_consola/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scheduler_consola/Program.cs" afterPath="$PROJECT_DIR$/scheduler_consola/Program.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scheduler_consola/obj/Debug/scheduler_consola.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/scheduler_consola/obj/Debug/scheduler_consola.csproj.FileListAbsolute.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,22 +39,22 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scheduler_consola/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="60" column="9" lean-forward="true" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+            <state relative-caret-position="694">
+              <caret line="72" column="90" lean-forward="false" selection-start-line="72" selection-start-column="90" selection-end-line="72" selection-end-column="90" />
               <folding>
-                <marker date="1513290967894" expanded="false" signature="6:97" ph="..." />
-                <marker date="1513290967894" expanded="true" signature="125:2916" ph="{...}" />
-                <marker date="1513290967894" expanded="true" signature="145:2914" ph="{...}" />
-                <marker date="1513290967894" expanded="true" signature="418:958" ph="{...}" />
-                <marker date="1513290967894" expanded="true" signature="683:948" ph="{...}" />
-                <marker date="1513290967894" expanded="true" signature="860:934" ph="{...}" />
-                <marker date="1513290967894" expanded="true" signature="1004:2171" ph="{...}" />
-                <marker date="1513290967894" expanded="true" signature="1439:1622" ph="/* Aqui cal fer el següent: ... */" />
-                <marker date="1513290967894" expanded="true" signature="2230:2766" ph="{...}" />
-                <marker date="1513290967894" expanded="true" signature="2307:2756" ph="{...}" />
-                <marker date="1513290967894" expanded="true" signature="2365:2742" ph="{...}" />
-                <marker date="1513290967894" expanded="true" signature="2525:2686" ph="{...}" />
-                <marker date="1513290967894" expanded="true" signature="2857:2908" ph="{...}" />
+                <marker date="1513291383861" expanded="false" signature="6:97" ph="..." />
+                <marker date="1513291383861" expanded="true" signature="125:2951" ph="{...}" />
+                <marker date="1513291383861" expanded="true" signature="145:2949" ph="{...}" />
+                <marker date="1513291383861" expanded="true" signature="418:958" ph="{...}" />
+                <marker date="1513291383861" expanded="true" signature="683:948" ph="{...}" />
+                <marker date="1513291383861" expanded="true" signature="860:934" ph="{...}" />
+                <marker date="1513291383861" expanded="true" signature="1004:2179" ph="{...}" />
+                <marker date="1513291383861" expanded="true" signature="1439:1622" ph="/* Aqui cal fer el següent: ... */" />
+                <marker date="1513291383861" expanded="true" signature="2238:2801" ph="{...}" />
+                <marker date="1513291383861" expanded="true" signature="2315:2791" ph="{...}" />
+                <marker date="1513291383861" expanded="true" signature="2373:2777" ph="{...}" />
+                <marker date="1513291383861" expanded="true" signature="2533:2721" ph="{...}" />
+                <marker date="1513291383861" expanded="true" signature="2892:2943" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -108,7 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -127,10 +122,12 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -171,7 +168,8 @@
       <updated>1513107717618</updated>
       <workItem from="1513107719782" duration="56000" />
       <workItem from="1513107988611" duration="93000" />
-      <workItem from="1513288312393" duration="2734000" />
+      <workItem from="1513288312393" duration="2818000" />
+      <workItem from="1513291278533" duration="115000" />
     </task>
     <task id="LOCAL-00001" summary="Project finished, a process waits if there's 2 running processes thanks to adding a Semaphore. Threading implemented.">
       <created>1513290258404</created>
@@ -187,11 +185,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513290663912</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Output notifying user if a process can't execute.">
+      <created>1513291120544</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1513291120544</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2883000" />
+    <option name="totallyTimeSpent" value="3082000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -236,9 +241,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="C:\Users\javyc\RiderProjects\Procesos_2" />
+    </ignored-roots>
     <MESSAGE value="Project finished, a process waits if there's 2 running processes thanks to adding a Semaphore. Threading implemented." />
     <MESSAGE value="Reminder comment added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Reminder comment added." />
+    <MESSAGE value="Output notifying user if a process can't execute." />
+    <option name="LAST_COMMIT_MESSAGE" value="Output notifying user if a process can't execute." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -247,8 +256,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../esciure_lletra/escriure_lletra/escriure_lletra/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        <state relative-caret-position="192">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding>
             <marker date="1513288300416" expanded="false" signature="6:109" ph="..." />
             <marker date="1513288300416" expanded="true" signature="136:576" ph="{...}" />
@@ -261,22 +270,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scheduler_consola/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="55" column="42" lean-forward="false" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
+        <state relative-caret-position="912">
+          <caret line="60" column="9" lean-forward="true" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
           <folding>
-            <marker date="1513290967894" expanded="false" signature="6:97" ph="..." />
-            <marker date="1513290967894" expanded="true" signature="125:2916" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="145:2914" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="418:958" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="683:948" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="860:934" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="1004:2171" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="1439:1622" ph="/* Aqui cal fer el següent: ... */" />
-            <marker date="1513290967894" expanded="true" signature="2230:2766" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="2307:2756" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="2365:2742" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="2525:2686" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="2857:2908" ph="{...}" />
+            <marker date="1513291383861" expanded="false" signature="6:97" ph="..." />
+            <marker date="1513291383861" expanded="true" signature="125:2951" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="145:2949" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="418:958" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="683:948" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="860:934" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="1004:2179" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="1439:1622" ph="/* Aqui cal fer el següent: ... */" />
+            <marker date="1513291383861" expanded="true" signature="2238:2801" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="2315:2791" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="2373:2777" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="2533:2721" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="2892:2943" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -300,19 +309,55 @@
         <state relative-caret-position="880">
           <caret line="55" column="42" lean-forward="false" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
           <folding>
-            <marker date="1513290967894" expanded="false" signature="6:97" ph="..." />
-            <marker date="1513290967894" expanded="true" signature="125:2916" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="145:2914" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="418:958" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="683:948" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="860:934" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="1004:2171" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="1439:1622" ph="/* Aqui cal fer el següent: ... */" />
-            <marker date="1513290967894" expanded="true" signature="2230:2766" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="2307:2756" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="2365:2742" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="2525:2686" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="2857:2908" ph="{...}" />
+            <marker date="1513291383861" expanded="false" signature="6:97" ph="..." />
+            <marker date="1513291383861" expanded="true" signature="125:2951" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="145:2949" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="418:958" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="683:948" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="860:934" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="1004:2179" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="1439:1622" ph="/* Aqui cal fer el següent: ... */" />
+            <marker date="1513291383861" expanded="true" signature="2238:2801" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="2315:2791" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="2373:2777" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="2533:2721" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="2892:2943" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../esciure_lletra/escriure_lletra/escriure_lletra/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <marker date="1513288300416" expanded="false" signature="6:109" ph="..." />
+            <marker date="1513288300416" expanded="true" signature="136:576" ph="{...}" />
+            <marker date="1513288300416" expanded="true" signature="156:574" ph="{...}" />
+            <marker date="1513288300416" expanded="true" signature="202:568" ph="{...}" />
+            <marker date="1513288300416" expanded="true" signature="456:558" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheduler_consola/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="55" column="42" lean-forward="false" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
+          <folding>
+            <marker date="1513291383861" expanded="false" signature="6:97" ph="..." />
+            <marker date="1513291383861" expanded="true" signature="125:2951" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="145:2949" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="418:958" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="683:948" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="860:934" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="1004:2179" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="1439:1622" ph="/* Aqui cal fer el següent: ... */" />
+            <marker date="1513291383861" expanded="true" signature="2238:2801" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="2315:2791" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="2373:2777" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="2533:2721" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="2892:2943" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -321,7 +366,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
           <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -341,22 +385,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scheduler_consola/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="60" column="9" lean-forward="true" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+        <state relative-caret-position="694">
+          <caret line="72" column="90" lean-forward="false" selection-start-line="72" selection-start-column="90" selection-end-line="72" selection-end-column="90" />
           <folding>
-            <marker date="1513290967894" expanded="false" signature="6:97" ph="..." />
-            <marker date="1513290967894" expanded="true" signature="125:2916" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="145:2914" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="418:958" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="683:948" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="860:934" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="1004:2171" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="1439:1622" ph="/* Aqui cal fer el següent: ... */" />
-            <marker date="1513290967894" expanded="true" signature="2230:2766" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="2307:2756" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="2365:2742" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="2525:2686" ph="{...}" />
-            <marker date="1513290967894" expanded="true" signature="2857:2908" ph="{...}" />
+            <marker date="1513291383861" expanded="false" signature="6:97" ph="..." />
+            <marker date="1513291383861" expanded="true" signature="125:2951" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="145:2949" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="418:958" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="683:948" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="860:934" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="1004:2179" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="1439:1622" ph="/* Aqui cal fer el següent: ... */" />
+            <marker date="1513291383861" expanded="true" signature="2238:2801" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="2315:2791" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="2373:2777" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="2533:2721" ph="{...}" />
+            <marker date="1513291383861" expanded="true" signature="2892:2943" ph="{...}" />
           </folding>
         </state>
       </provider>
