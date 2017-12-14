@@ -1,23 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Diagnostics;
-
 namespace scheduler_consola
 {
     class Program
     {
         //Caldrà definir una variable de classe que serà la cua de processos
-        static Queue<Process> cuaProcessos = new Queue<Process>();
+        private static readonly Queue<Process> CuaProcessos = new Queue<Process>();
+        private static readonly SemaphoreSlim Semafor = new SemaphoreSlim(2);
 
         static void Main()
         {
             string opcio = "";
 
             //Cal crear i iniciar un fil que farà la tasca de planificador de processos
-            Thread planificador = new Thread(generar_proces);
+            Thread planificador = new Thread(planificador_proces);
             planificador.Start();
 
             while (opcio != "q")
@@ -50,10 +48,32 @@ namespace scheduler_consola
             //2) Guardar el procés a la cua
 
             Process process = new Process();
-            process.StartInfo.FileName = @"C:\Users\Alumne\Documents\Visual Studio 2013\Projects\Pr4 - alumne\esciure_lletra\escriure_lletra\escriure_lletra\bin\Debug\escriure_lletra.exe";
-            process.StartInfo.Arguments = lletra + Convert.ToString(vegades) + Convert.ToString(retard);
+            process.StartInfo.FileName = @"C:\Users\javyc\RiderProjects\Procesos_2\esciure_lletra\escriure_lletra\escriure_lletra\bin\Debug\escriure_lletra.exe";
+            process.StartInfo.Arguments = lletra + " " + Convert.ToString(vegades) + " " + Convert.ToString(retard);
+            process.Exited += new EventHandler(process_finalitzat);
+            process.EnableRaisingEvents = true;
+            
+            CuaProcessos.Enqueue(process);
+        }
+        
+        private static void planificador_proces()
+        {
+            Process auxProc;
+            
+            while (true)
+            {
+                if (CuaProcessos.Count > 0)
+                {
+                    auxProc = CuaProcessos.Dequeue();
+                    Semafor.Wait();
+                    auxProc.Start();
+                }
+            }
+        }
 
-            cuaProcessos.Enqueue(process);
+        private static void process_finalitzat(object sender, System.EventArgs eventArgs)
+        {
+            Semafor.Release();
         }
     }
 }

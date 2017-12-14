@@ -19,3 +19,10 @@ C:\Users\Alumne\Documents\Visual Studio 2013\Projects\Pr4 - alumne\scheduler_con
 C:\Users\Alumne\Documents\Visual Studio 2013\Projects\Pr4 - alumne\scheduler_consola\scheduler_consola\bin\Debug\scheduler_consola.exe
 C:\Users\Alumne\Documents\Visual Studio 2013\Projects\Pr4 - alumne\scheduler_consola\scheduler_consola\bin\Debug\scheduler_consola.pdb
 C:\Users\Alumne\Documents\Visual Studio 2013\Projects\Pr4 - alumne\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.csprojResolveAssemblyReference.cache
+C:\Users\javyc\RiderProjects\Procesos_2\scheduler_consola\scheduler_consola\bin\Debug\scheduler_consola.exe.config
+C:\Users\javyc\RiderProjects\Procesos_2\scheduler_consola\scheduler_consola\bin\Debug\scheduler_consola.exe
+C:\Users\javyc\RiderProjects\Procesos_2\scheduler_consola\scheduler_consola\bin\Debug\scheduler_consola.pdb
+C:\Users\javyc\RiderProjects\Procesos_2\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.csprojResolveAssemblyReference.cache
+C:\Users\javyc\RiderProjects\Procesos_2\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.csproj.CoreCompileInputs.cache
+C:\Users\javyc\RiderProjects\Procesos_2\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.exe
+C:\Users\javyc\RiderProjects\Procesos_2\scheduler_consola\scheduler_consola\obj\Debug\scheduler_consola.pdb
