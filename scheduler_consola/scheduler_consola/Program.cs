@@ -67,6 +67,12 @@ namespace scheduler_consola
                 {
                     auxProc = CuaProcessos.Dequeue();
                     Semafor.Wait();
+
+                    if (Semafor.CurrentCount == 0)
+                    {
+                        Console.WriteLine("AVÍS: Aquest procès no s'executarà fins que un dels dos actuals acabi.");
+                    }
+
                     auxProc.Start();
                 }
             }

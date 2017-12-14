@@ -19,3 +19,10 @@ C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF2\01_Exercicis\Exercici4 - al
 C:\Users\Alumne\Documents\Visual Studio 2013\Projects\Pr4 - alumne\esciure_lletra\escriure_lletra\escriure_lletra\bin\Debug\escriure_lletra.exe.config
 C:\Users\Alumne\Documents\Visual Studio 2013\Projects\Pr4 - alumne\esciure_lletra\escriure_lletra\escriure_lletra\obj\Debug\escriure_lletra.exe
 C:\Users\Alumne\Documents\Visual Studio 2013\Projects\Pr4 - alumne\esciure_lletra\escriure_lletra\escriure_lletra\obj\Debug\escriure_lletra.pdb
+C:\Users\javyc\RiderProjects\Procesos_2\esciure_lletra\escriure_lletra\escriure_lletra\bin\Debug\escriure_lletra.exe.config
+C:\Users\javyc\RiderProjects\Procesos_2\esciure_lletra\escriure_lletra\escriure_lletra\bin\Debug\escriure_lletra.exe
+C:\Users\javyc\RiderProjects\Procesos_2\esciure_lletra\escriure_lletra\escriure_lletra\bin\Debug\escriure_lletra.pdb
+C:\Users\javyc\RiderProjects\Procesos_2\esciure_lletra\escriure_lletra\escriure_lletra\obj\Debug\escriure_lletra.csprojResolveAssemblyReference.cache
+C:\Users\javyc\RiderProjects\Procesos_2\esciure_lletra\escriure_lletra\escriure_lletra\obj\Debug\escriure_lletra.csproj.CoreCompileInputs.cache
+C:\Users\javyc\RiderProjects\Procesos_2\esciure_lletra\escriure_lletra\escriure_lletra\obj\Debug\escriure_lletra.exe
+C:\Users\javyc\RiderProjects\Procesos_2\esciure_lletra\escriure_lletra\escriure_lletra\obj\Debug\escriure_lletra.pdb
