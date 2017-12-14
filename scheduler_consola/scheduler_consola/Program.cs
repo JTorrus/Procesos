@@ -48,6 +48,7 @@ namespace scheduler_consola
             //2) Guardar el procés a la cua
 
             Process process = new Process();
+            // RECORDATORIO: Cambiar ruta
             process.StartInfo.FileName = @"C:\Users\javyc\RiderProjects\Procesos_2\esciure_lletra\escriure_lletra\escriure_lletra\bin\Debug\escriure_lletra.exe";
             process.StartInfo.Arguments = lletra + " " + Convert.ToString(vegades) + " " + Convert.ToString(retard);
             process.Exited += new EventHandler(process_finalitzat);
