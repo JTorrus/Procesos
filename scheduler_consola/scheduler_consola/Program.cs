@@ -27,6 +27,11 @@ namespace scheduler_consola
                 {
                     generar_proces();
                 }
+
+                if (opcio == "q")
+                {
+                    Environment.Exit(1);
+                }
             }
         }
 
@@ -49,7 +54,7 @@ namespace scheduler_consola
 
             Process process = new Process();
             // RECORDATORIO: Cambiar ruta
-            process.StartInfo.FileName = @"C:\Users\javyc\RiderProjects\Procesos - JTorrus\esciure_lletra\escriure_lletra\escriure_lletra\bin\Debug\escriure_lletra.exe";
+            process.StartInfo.FileName = @"C:\Users\Usuari1\Desktop\Procesos\esciure_lletra\escriure_lletra\escriure_lletra\bin\Debug\escriure_lletra.exe";
             process.StartInfo.Arguments = lletra + " " + Convert.ToString(vegades) + " " + Convert.ToString(retard);
             process.Exited += new EventHandler(process_finalitzat);
             process.EnableRaisingEvents = true;
