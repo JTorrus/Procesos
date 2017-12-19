@@ -9,8 +9,7 @@ namespace scheduler_consola
         //Caldrà definir una variable de classe que serà la cua de processos
         private static readonly Queue<Process> CuaProcessos = new Queue<Process>();
         private static readonly SemaphoreSlim Semafor = new SemaphoreSlim(2);
-        private static readonly SemaphoreSlim SemaforControlarCua = new SemaphoreSlim(1);
-        private static bool exit = false;
+        private static readonly SemaphoreSlim SemaforControlarCua = new SemaphoreSlim(0);
 
         static void Main()
         {
@@ -32,7 +31,7 @@ namespace scheduler_consola
 
                 if (opcio == "q")
                 {
-                    exit = true;
+                    Environment.Exit(1);
                 }
             }
         }
@@ -69,19 +68,13 @@ namespace scheduler_consola
         {
             Process auxProc;
 
-            SemaforControlarCua.Wait();
-            while (!exit)
+            while (true)
             {
+                SemaforControlarCua.Wait();
                 if (CuaProcessos.Count > 0)
-                {
+                { 
                     auxProc = CuaProcessos.Dequeue();
                     Semafor.Wait();
-
-                    if (Semafor.CurrentCount == 0)
-                    {
-                        Console.WriteLine("AVÍS: Si crees un nou procès en aquest moment, no s'executarà fins que un dels dos actuals acabi.");
-                    }
-
                     auxProc.Start();
                 }
             }
