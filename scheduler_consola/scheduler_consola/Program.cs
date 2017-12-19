@@ -10,6 +10,7 @@ namespace scheduler_consola
         private static readonly Queue<Process> CuaProcessos = new Queue<Process>();
         private static readonly SemaphoreSlim Semafor = new SemaphoreSlim(2);
         private static readonly SemaphoreSlim SemaforControlarCua = new SemaphoreSlim(1);
+        private static bool exit = false;
 
         static void Main()
         {
@@ -31,7 +32,7 @@ namespace scheduler_consola
 
                 if (opcio == "q")
                 {
-                    Environment.Exit(1);
+                    exit = true;
                 }
             }
         }
@@ -59,15 +60,17 @@ namespace scheduler_consola
             process.StartInfo.Arguments = lletra + " " + Convert.ToString(vegades) + " " + Convert.ToString(retard);
             process.Exited += new EventHandler(process_finalitzat);
             process.EnableRaisingEvents = true;
-            
+
             CuaProcessos.Enqueue(process);
+            SemaforControlarCua.Release();
         }
         
         private static void planificador_proces()
         {
             Process auxProc;
-            
-            while (true)
+
+            SemaforControlarCua.Wait();
+            while (!exit)
             {
                 if (CuaProcessos.Count > 0)
                 {
