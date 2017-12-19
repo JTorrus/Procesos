@@ -9,6 +9,7 @@ namespace scheduler_consola
         //Caldrà definir una variable de classe que serà la cua de processos
         private static readonly Queue<Process> CuaProcessos = new Queue<Process>();
         private static readonly SemaphoreSlim Semafor = new SemaphoreSlim(2);
+        private static readonly SemaphoreSlim SemaforControlarCua = new SemaphoreSlim(1);
 
         static void Main()
         {
@@ -83,7 +84,7 @@ namespace scheduler_consola
             }
         }
 
-        private static void process_finalitzat(object sender, System.EventArgs eventArgs)
+        private static void process_finalitzat(object sender, EventArgs eventArgs)
         {
             Semafor.Release();
         }
